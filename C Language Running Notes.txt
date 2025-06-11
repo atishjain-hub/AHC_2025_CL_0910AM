@@ -1,0 +1,28 @@
+----------------------
+Day 1:
+Date: 11th June 2025
+----------------------
+Course Name: C Programming Language
+
+Audience: 12th Passouts,B.tech(1,2,3,4), Non-IT
+
+Facts About C:
+1. The Python interpreter is called “CPython” and it's written in the C programming language.
+2. IOS is Written in C & C++ Langauges
+3. Most of the Software in Tesla cars is C or C++
+4.
+5.
+etc.....
+
+About Trainer:
+Atish Jain, 15+years of exp
+MCA,MS(IT),MC(CS)-IIIT-B & LJM(UK) - Java Full stack
+-----------------------------------------------------
+How Many Courses to Learn Before Joining in Engineering:
+
+Basics+C Language+Python
+C Language+Python
+Basics+C Language
+
+	
+
