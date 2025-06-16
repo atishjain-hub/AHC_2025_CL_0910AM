@@ -16,7 +16,7 @@ etc.....
 
 About Trainer:
 Atish Jain, 15+years of exp
-MCA,MS(IT),MC(CS)-IIIT-B & LJM(UK) - Java Full stack
+MCA,MS(IT),MC(CS)-IIIT-B & LJMU(UK) - Java Full stack
 -----------------------------------------------------
 How Many Courses to Learn Before Joining in Engineering:
 
@@ -24,5 +24,112 @@ Basics+C Language+Python
 C Language+Python
 Basics+C Language
 
-	
+----------------------
+Day 2:
+Date: 12th June 2025
+----------------------
+Agenda:
+1. What is Programming
+2. What is C Language
+3. History of C
+4. Features of C
+5. Structre of C Program *
+
+
+What is Computer?
+Compuer is an electrical and mechanical devices accepts data as input, process that data and provides output as information.
+
+Data --> Processed --> Information
+
+is Computers are Intellignent?
+Big NO
+
+What is Programming?
+--------------------
+set of instructions provided by programmer which performs a task.
+
+Types of Languages:
+1. Natural Languages/Human Languages - telugu, enlish, hindi,....
+2. Programming Languages - BASIC, COBOL,C, CPP, Java, Python, C#, PHP,....
+
+
+What is C?
+C is Programming Language developed by Dennis Ritchie in the year 1972 at AT & T Bell Labs of USA.
+
+History of C:
+------------
+1960 - ALGOL
+1967 - Martin Richards - BCPL
+1970 - Kenthompson - B
+
+1972 - Good Features of BCPL & B Taken and a new Language is developed - C
+
+Features of C:
+-------------
+1. Portability
+2. Structured Language
+3. Modular Programming
+4. Middle Level Language
+5. Fast
+
+----------------------
+Day 3:
+Date: 13th June 2025
+----------------------
+
+----------------------
+structure of C Program
+----------------------
+
+Human Language = 26 + Words + Grammer ==> Sentence ==> Paragram ==> Essay ==>
+
+C Laguage - 32 keywords + functions ==> syntax ==> Instructions ==> Program ==> project
+
+Header files ==> 29 header files 
+
+# - pre processor directive
+include - keyword
+
+Comments are of two types
+1. single comment
+2. multiline comment
+
+
+/*
+  This project is build for ICICI Bank
+  This is an customer saving account module...
+*/
+
+# include <stdio.h>
+# include <math.h>
+
+int main() //indicates starting point of the program execution
+{
+  //code 
+
+ return 0;
+}
+
+Translator ==> Compiler 
+
+C Software = Compiler + keywords + Library files(functions) + Text Editor = IDE
+
+
+----------------------
+Day 4:
+Date: 14th June 2025
+----------------------
+
+Hello World	
+
+----------------------
+Day 5:
+Date: 16th June 2025
+----------------------
+
+LMS - Learning Management System
+https://courses.atishjain.in/
+
+
+Multiple if's Examples
 
