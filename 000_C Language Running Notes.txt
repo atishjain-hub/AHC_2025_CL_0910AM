@@ -131,5 +131,57 @@ LMS - Learning Management System
 https://courses.atishjain.in/
 
 
-Multiple if's Examples
 
+----------------------
+Day 6:
+Date: 17th June 2025
+----------------------
+LMS Access -
+
+
+----------------------
+Day 7:
+Date: 18th June 2025
+----------------------
+int      -    4    - %d
+char     -    1    - %c  
+float    -    4    - %f
+double   -    8    - %lf
+
+Arithmetic Operations:
+---------------------
++
+-
+*
+/
+%
+
+P - Passion
+P - Patience
+P - Practice
+
+Assignment:
+
+1.Write a Program to Read salary of mom and dad for the month of may and display 
+total and income and left over income.
+
+mom_sal;
+dad_sal;
+total_sal;
+exp;
+income;
+
+total_sal = mom_sal + dad_sal
+income = total_sal - exp;
+
+2.Write a Program to calculate amount for the inputted 
+Note: Rate should be in decimals
+
+ex:
+qty - 10
+rate - 2.35
+amt - 23.50
+
+float rate
+int qty
+int amt
