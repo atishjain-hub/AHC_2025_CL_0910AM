@@ -185,3 +185,16 @@ amt - 23.50
 float rate
 int qty
 int amt
+
+----------------------
+Day 8:
+Date: 19th June 2025
+----------------------
+
+Tasks to Finish by Monday - 23rd Jun 2025
+
+1. Finish your LinkedIn Profile
+2. Create Account on GitHub
+3. codechef.com
+4. LMS Access - Computer Basics
+5. LMS Access - PBLT
