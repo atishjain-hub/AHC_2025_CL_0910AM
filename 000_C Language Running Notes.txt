@@ -195,6 +195,27 @@ Tasks to Finish by Monday - 23rd Jun 2025
 
 1. Finish your LinkedIn Profile
 2. Create Account on GitHub
-3. codechef.com
-4. LMS Access - Computer Basics
-5. LMS Access - PBLT
+3. codechef.com - start learning c language
+4. LMS Access - Finish Computer Basics and upload the certificate 
+5. LMS Access - PBLT Course and Upload the certificate
+
+
+Assignment:
+1. Mr.Ravi is Corporate Trainer, he Lives in Hyderaad, he got an training assignment at delhi.
+Ravi Borded delhi flight from hyderabad, after boarding the flight he heard the announcement from Airhostees
+saying "The Flying time from Hyderabad to Delhi is 135 mins..."
+Write a c Program to Convert the flying time from mins to hours and mins
+
+2. Write a Program to read marks of 3 subjects C,Java and Python.
+calculate total and average.
+
+----------------------
+Day 9:
+Date: 20th June 2025
+----------------------
+No of files created for a c program
+
+.c     ------ source code
+.o/obj ------- Object code
+.exe  -------- executable file
+.bak ---------- backup file
