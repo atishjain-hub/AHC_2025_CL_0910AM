@@ -219,3 +219,20 @@ No of files created for a c program
 .o/obj ------- Object code
 .exe  -------- executable file
 .bak ---------- backup file
+
+
+Working with characters:
+------------------------
+
+----------------------
+Day 10:
+Date: 21th June 2025
+----------------------
+
+ASCII - American Standard Code for Information interchange
+
+A-Z = 65-90
+a-z = 97-122
+0-9 = 48 to 57
+
+0 - 255
