@@ -236,3 +236,41 @@ a-z = 97-122
 0-9 = 48 to 57
 
 0 - 255
+
+----------------------
+Day 11:
+Date: 23rd June 2025
+----------------------
+1. Introduction to Programming
+2. Introduction to C Programming
+3. programming constructs / control flow statements
+   1. sequence flow
+   2. selection
+   3. loops/iteration/repetition
+
+Tasks:
+1. Finish LinkedIn Profile - 
+2. Computer Basics - 2 Days
+3. PBLT - 6.5 hours
+4. C Programming
+
+
+int var_name
+
+syntax:
+[storage class] [modifiers] <datatype> <var_name> = [value]
+
+int x = singed long int x
+
+short int age;
+int age
+
+TurboC2 /C3
+
+int age;
+
+----------------------
+Day 12:
+Date: 24th June 2025
+----------------------
+long long int
