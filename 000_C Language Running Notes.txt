@@ -274,3 +274,20 @@ Day 12:
 Date: 24th June 2025
 ----------------------
 long long int
+
+
+----------------------
+Day 13:
+Date: 25th June 2025
+----------------------
+3 types programming constructs....
+1. sequence
+2. selection
+3. loops
+
+
+
+age1=20;
+age2=25;
+
+age1>age2
