@@ -291,3 +291,9 @@ age1=20;
 age2=25;
 
 age1>age2
+
+----------------------
+Day 14:
+Date: 27th June 2025
+----------------------
+discount and final amount example
