@@ -297,3 +297,30 @@ Day 14:
 Date: 27th June 2025
 ----------------------
 discount and final amount example
+
+
+
+codechef.com
+------------
+
+input:
+23 21
+output
+23
+
+
+
+scanf("%d%d",&a,&b);
+
+if(a>b)
+  printf("%d",a);
+else
+  printf("%d",b);
+
+
+write a Program to read average marks of a student and display the Class
+avg      class
+>=60     First class
+50 - 60  Second class
+40 - 50  Third class
+below 40 Failed
