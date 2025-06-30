@@ -324,3 +324,21 @@ avg      class
 50 - 60  Second class
 40 - 50  Third class
 below 40 Failed
+
+
+----------------------
+Day 15:
+Date: 28th June 2025
+----------------------
+1. simple if
+2. if with else statement
+3. multiple if
+4. nested if
+
+
+----------------------
+Day 16:
+Date: 30th June 2025
+----------------------
+write a program to read a character and check whether it is 
+vowel or consonant.
