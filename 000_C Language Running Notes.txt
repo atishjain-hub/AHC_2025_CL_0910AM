@@ -342,3 +342,30 @@ Date: 30th June 2025
 ----------------------
 write a program to read a character and check whether it is 
 vowel or consonant.
+
+
+----------------------
+Day 17:
+Date: 1st July 2025
+----------------------
+Menu Program
+
+switch-case 
+
+32 keywords:
+1.int
+2.char
+3.float
+4.double
+5.short
+6.long
+7.long long
+8.sign
+9.unsigned
+10.const
+11.if
+12.else
+13.switch
+14.case
+15.default
+16.break
