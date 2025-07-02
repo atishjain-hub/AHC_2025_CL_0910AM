@@ -369,3 +369,32 @@ switch-case
 14.case
 15.default
 16.break
+
+
+
+----------------------
+Day 18:
+Date: 2nd July 2025
+----------------------
+
+switch(ch)
+{
+ case 'R': .......; break;
+ case 2: .......; break;
+ .......
+ default: ...............
+ }
+
+
+ example:
+
+ switch(opt)
+ { 
+   case 1:
+          {
+
+	  .....
+	  .....
+	  }; break;
+
+}
