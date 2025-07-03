@@ -398,3 +398,24 @@ switch(ch)
 	  }; break;
 
 }
+
+----------------------
+Day 19:
+Date: 3rd July 2025
+----------------------
+c = a + b;
+
+-10
+
+-a
+
+sizeof(int)
+
+sizeof a
+
+
+c - printf()
+c++ - cout<<
+java - System.out.println()
+python - print()
+javascript - console.log()
