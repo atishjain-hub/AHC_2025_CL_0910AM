@@ -419,3 +419,114 @@ c++ - cout<<
 java - System.out.println()
 python - print()
 javascript - console.log()
+
+----------------------
+Day 19:
+Date: 4th July 2025
+----------------------
+1. decimal number system  - day to day life - base 10 (0-9)
+2. octal number system - legacy applications - base 8 - (0-7)
+3. hexadecimal number system - modern competing - base 16 - (0-9 and A to F)
+4. binary number system - computing machines - base 2 - (1 and 0)
+
+bitwise operators:
+1. bitwise and - &
+2. bitwise or - |
+3. bitwise Xor - ^
+4. bitwise complement - ~
+5. left shift - <<
+6. righit shift - >>
+
+
+5 + 7 = 12
+5 & 7 = 
+
+
+bitwise & operator: (product rule)
+
+1 & 1 - 1
+1 & 0 - 0
+0 & 1 - 0
+0 & 0 - 0
+
+
+
+bitwise | operator: (sum rule)
+
+1 & 1 - 1
+1 & 0 - 1
+0 & 1 - 1
+0 & 0 - 0
+
+
+bitwise ^ operator: 
+
+1 & 1 - 0
+1 & 0 - 1
+0 & 1 - 1
+0 & 0 - 0
+
+bitwise ~
+1 - 0
+0 - 1
+
+
+Ternary Operator:
+----------------
+? and :
+
+
+syntax:
+
+expr1 ? expr2 : expr3
+
+10>2 : "red" : "gree"
+
+----------------------
+Day 20:
+Date: 5th July 2025
+----------------------
+control flow statements are of 3 types
+1. sequence  - default
+2. selection/conditional -
+3. loops/iteratios/repetitions -
+
+
+--------------------------------------------
+Looping construct / Iterations / Repetitions
+--------------------------------------------
+Ex:
+   goto super market and get 1 dozen of apples
+
+to perform repetitive tasks there are 3 types loops
+1. while loop
+2. do..while loop
+3. for loop
+
+
+these 3 loops are divided into two categories - iterations
+1. count controlled
+   1. for
+  
+2. condition controlled
+   1. while loop
+   2. do while loop
+
+
+these 3 loops are divided into two categories - condition check
+1. pre tested/entry check
+   1. for
+   2. while
+  
+2. post tested/exit check
+   1. do while loop
+
+
+
+while <condition>
+  {
+     stmt1;
+     stmt2;
+     stmtN;
+  }
+
