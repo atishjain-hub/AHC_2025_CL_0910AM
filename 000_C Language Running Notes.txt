@@ -534,3 +534,13 @@ while <condition>
 Day 21:
 Date: 7th July 2025
 ----------------------
+loops examples
+
+
+----------------------
+Day 22:
+Date: 8th July 2025
+----------------------
+
+1. sum of digits from the inputted
+   ex: 125 = 1+2+5 = 8
