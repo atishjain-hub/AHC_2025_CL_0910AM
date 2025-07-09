@@ -544,3 +544,9 @@ Date: 8th July 2025
 
 1. sum of digits from the inputted
    ex: 125 = 1+2+5 = 8
+
+
+----------------------
+Day 23:
+Date: 9th July 2025
+----------------------
