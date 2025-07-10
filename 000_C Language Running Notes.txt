@@ -550,3 +550,15 @@ Date: 8th July 2025
 Day 23:
 Date: 9th July 2025
 ----------------------
+
+
+----------------------
+Day 24:
+Date: 10th July 2025
+----------------------
+1. write a program to keep on reading numbers from the user till then inputs 0.
+   calculate, sum, avg and count of even and odd nos.
+
+
+   printf(".....");
+   scanf("%d",&no);
