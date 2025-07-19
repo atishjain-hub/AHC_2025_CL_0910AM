@@ -641,3 +641,25 @@ Day 30:
 Date: 17th July 2025
 ----------------------
 mutidimensional array declaration and initialization
+
+----------------------
+Day 31:
+Date: 18th July 2025
+----------------------
+addition of 2 arrays of 3*3 size
+
+
+char name[50] 
+
+'\0'
+
+printf("%s",name);
+
+int arr[10];
+
+printf("%d",arr);
+
+----------------------
+Day 32:
+Date: 19th July 2025
+----------------------
